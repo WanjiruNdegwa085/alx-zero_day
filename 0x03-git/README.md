@@ -1,1 +1,2 @@
-git commit, branches, conflicts and further understanding
+git commit, branches, conflicts and further understanding#
+collaboration
